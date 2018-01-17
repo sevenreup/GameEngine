@@ -1,0 +1,4 @@
+﻿  main.cpp
+x:\project files\visual studio 2015\projects\sparky\sparky-core\src\maths\maths_func.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Sparky-core.vcxproj -> X:\Project Files\Visual Studio 2015\Projects\Sparky\Bin\Debug\Sparky-core.exe
+  Sparky-core.vcxproj -> X:\Project Files\Visual Studio 2015\Projects\Sparky\Bin\Debug\Sparky-core.pdb (Partial PDB)
